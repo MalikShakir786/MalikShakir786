@@ -27,7 +27,7 @@ Passionate Flutter Developer with 2.5+ years of experience building scalable, re
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python" />
 </p>
 
 ### ⚙️ Backend & APIs
