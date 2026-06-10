@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shakir</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer</h3>
+
+<h3 align="center">Flutter Developer | Mobile App Engineer | AI Enthusiast</h3>
 
 <p align="center">
-Passionate Flutter Developer with 2.5+ years of experience building scalable, real-time, and high-performance mobile applications using Flutter & Dart.
+Passionate Flutter Developer with 2.5+ years of experience building scalable, real-time, and high-performance mobile applications using Flutter & Dart.  
+Currently exploring **AI, FastAPI, and RAG (Retrieval-Augmented Generation)** to build intelligent applications.
 </p>
 
 ---
@@ -10,14 +12,16 @@ Passionate Flutter Developer with 2.5+ years of experience building scalable, re
 ## 🚀 About Me
 
 - 🔭 Currently working as a **Lead Flutter Developer at TechnoVerse**
-- 🌱 Exploring advanced Flutter architecture & scalable app development
+- 🌱 Exploring advanced Flutter architecture, scalable apps & AI integration
+- 🤖 Currently learning **AI, Machine Learning & RAG systems**
 - 💡 Skilled in building:
   - Real-time applications
   - Android TV apps
   - Map-based systems
   - WebSocket integrations
   - Firebase-powered apps
-- 💬 Ask me about **Flutter, GetX, Firebase, APIs, WebSockets, Maps**
+  - AI-assisted applications (RAG-based concepts)
+- 💬 Ask me about **Flutter, GetX, Firebase, APIs, WebSockets, Maps, RAG, FastAPI**
 - 📍 Gujrat, Pakistan
 - 📫 Reach me at: **malikshakir3304@gmail.com**
 
@@ -30,9 +34,14 @@ Passionate Flutter Developer with 2.5+ years of experience building scalable, re
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python" />
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend, AI & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,mysql,postman" />
+</p>
+
+### 🤖 AI & Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ### 💻 Programming & Tools
@@ -46,6 +55,9 @@ Passionate Flutter Developer with 2.5+ years of experience building scalable, re
 - BLoC
 - REST APIs
 - WebSockets
+- FastAPI
+- RAG (Retrieval-Augmented Generation)
+- AI Integration (Learning)
 - MapBox
 - CI/CD
 - Plastic SCM
@@ -192,4 +204,5 @@ Desktop application developed using WPF .NET.
 
 <p align="center">
 ⭐ Always learning new technologies and building impactful applications.
+🤖 Currently exploring AI + Flutter + RAG-powered applications
 </p>
