@@ -163,7 +163,9 @@ Desktop application developed using WPF .NET.
 
 ## 🏆 Certifications
 
-- Unity Game Development Certificate
+- 🎮 Unity Game Development Certificate  
+- 🐧 Cisco Networking Academy – Linux Unhatched  
+- 🐧 Cisco Networking Academy – Linux Essentials
 
 ---
 
