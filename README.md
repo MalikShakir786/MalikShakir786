@@ -4,7 +4,7 @@
 
 <p align="center">
 Passionate Flutter Developer with 3 years of experience building scalable, real-time, and high-performance mobile applications using Flutter & Dart.  
-Currently exploring **AI, FastAPI, and RAG (Retrieval-Augmented Generation)** to build intelligent applications.
+Currently exploring AI, FastAPI, and RAG (Retrieval-Augmented Generation) to build intelligent applications.
 </p>
 
 ---
